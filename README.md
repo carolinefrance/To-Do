@@ -24,12 +24,12 @@ Caroline France modified styles.css from MIT's source code.
 
 #### Step 1: set up your local server
 
-* MAC: open Terminal
-* PC: open Command Prompt
+MAC: open Terminal
+PC: open Command Prompt
 
-* Type the following:
-npm install -- global http-server
-http-server -c-1
+Type the following:
+* npm install -- global http-server
+* http-server -c-1
 
 #### Step 2: open your browser
 * Copy and paste the localhost:8080 link into your browser's address bar.
