@@ -1,5 +1,5 @@
 # To-Do
-Caroline J. France
+#### Caroline J. France
 Last updated: 30 January 2023
 
 * Created as an assignment for MiT's FSD Course, Module 14 (React, JS, CSS, Babel, HTML)
@@ -24,26 +24,26 @@ Caroline France modified styles.css from MIT's source code.
 
 #### Step 1: set up your local server
 
-MAC: open Terminal
-PC: open Command Prompt
+* MAC: open Terminal
+* PC: open Command Prompt
 
-Type the following:
+* Type the following:
 npm install -- global http-server
 http-server -c-1
 
 #### Step 2: open your browser
-Copy and paste the localhost:8080 link into your browser's address bar.
+* Copy and paste the localhost:8080 link into your browser's address bar.
 
 #### Step 3: view the To-Do List app
-You can click on a list item to remove it.
-You can click on "Add item..." and type a new item to add to the list.
+* You can click on a list item to remove it.
+* You can click on "Add item..." and type a new item to add to the list.
 
 #### Step 4: close the local server
-MAC: open Terminal, command C
-PC: open Command Prompt, ctrl C
+* MAC: open Terminal, command C
+* PC: open Command Prompt, ctrl C
 
 ### Roadmap for future improvements:
-I will adjust this template for future React web projects for which I need the user to add or remove text and the state of the browser needs to be updated.
+* I will adjust this template for future React web projects for which I need the user to add or remove text and the state of the browser needs to be updated.
 
 ### License
 MIT License
