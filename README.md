@@ -2,6 +2,7 @@
 #### Caroline J. France
 Last updated: 30 January 2023
 
+* THIS PROJECT IS NOT COMPLETE - I'm still working on styles, so it looks rough at the moment ;-)
 * Created as an assignment for MiT's FSD Course, Module 14 (React, JS, CSS, Babel, HTML)
 
 ### SOURCE CODE
