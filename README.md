@@ -22,12 +22,16 @@ Caroline France modified styles.css from MIT's source code.
 
 ### How to Run
 
-#### Step 1: set up your local server
+#### Step 1: download and unzip files from this repository to your computer
+* From this repository, click [<> Code ] and select Download ZIP
+* Unzip these files, and move them to a folder (a.k.a. a directory)
 
-MAC: open Terminal
-PC: open Command Prompt
+#### Step 2: set up a local server on your computer
 
-Type the following:
+* MAC: open Terminal
+* PC: open Command Prompt
+
+Locate the directory (ls) where you placed the unzipped files, then type the following:
 * npm install -- global http-server
 * http-server -c-1
 
@@ -38,7 +42,7 @@ Type the following:
 * You can click on a list item to remove it.
 * You can click on "Add item..." and type a new item to add to the list.
 
-#### Step 4: close the local server
+#### Step 4: to close the app, quit your local server
 * MAC: open Terminal, command C
 * PC: open Command Prompt, ctrl C
 
