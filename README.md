@@ -35,14 +35,14 @@ Locate the directory (ls) where you placed the unzipped files, then type the fol
 * npm install -- global http-server
 * http-server -c-1
 
-#### Step 2: open your browser
+#### Step 3: open your browser
 * Copy and paste the localhost:8080 link into your browser's address bar.
 
-#### Step 3: view the To-Do List app
+#### Step 4: view the To-Do List app
 * You can click on a list item to remove it.
 * You can click on "Add item..." and type a new item to add to the list.
 
-#### Step 4: to close the app, quit your local server
+#### Step 5: to close the app, quit your local server
 * MAC: open Terminal, command C
 * PC: open Command Prompt, ctrl C
 
